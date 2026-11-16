@@ -1,0 +1,6 @@
+{
+  "name": "Roktodaan — Nationwide Blood Donation Network",
+  "description": "Union-level blood donor matching and emergency blood request coordination platform across all 8 divisions of Bangladesh.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
